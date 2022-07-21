@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @negi153
+- 👋 Hi, I’m Mukesh Singh Negi.
 - 🤓 I am a Python AWS Developer with 2 years of experience.
 - 🤖 Technologies
   - Python
@@ -11,6 +11,7 @@
 - 📫 How to reach me :
   - Gmail - `mukesh7758negi@gmail.com`
   - Instagram - `mukesh83negi`
+  - LinkedIn - https://www.linkedin.com/in/mukesh-singh-negi-14b97017a
 
 <!---
 negi153/negi153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
