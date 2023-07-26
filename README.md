@@ -13,7 +13,7 @@
   - Gmail - `mukesh7758negi@gmail.com`
   - Instagram - `mukesh83negi`
   - LinkedIn - https://www.linkedin.com/in/mukesh-singh-negi-14b97017a
-- 🖥️ Work - [portfolio-website](https://my-portfolio-92c3e.firebaseapp.com/)
+- 🖥️ Work - [portfolio-website](https://my-portfolio-92c3e.web.app/)
 
 <!---
 negi153/negi153 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
