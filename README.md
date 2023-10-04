@@ -8,6 +8,7 @@
   - Machine Learning
   - Airflow
   - Docker
+  - Databricks
 - 🌱 I’m a certified AWS Cloud Practitioner.
 - 📫 How to reach me :
   - Gmail - `mukesh7758negi@gmail.com`
