@@ -14,7 +14,7 @@
   - Instagram - `mukesh83negi`
   - LinkedIn - https://www.linkedin.com/in/mukesh-singh-negi-14b97017a
 - 🖥️ Work Sample
-    - [Portfolio Website](https://my-portfolio-92c3e.web.app/)
+    - [Portfolio Website](https://my-portfolio-92c3e.firebaseapp.com/)
     - [Blog website](https://technical-blog-de33d.firebaseapp.com/)
 
 <!---
