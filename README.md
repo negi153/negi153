@@ -1,5 +1,19 @@
-- 👋 Hi, I’m Mukesh Singh Negi.
-- 🤓 I am a Cloud and Big data Developer with 3.3 years of experience.
+# Hi, I’m Mukesh Singh Negi 👋 
+
+I am a Cloud and Big data Developer with 3.3 years of experience.
+
+![negi153's Github Stats](https://github-readme-stats.vercel.app/api?username=negi153&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+# Development
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,scala,aws,anaconda,html,css,docker,dynamodb,flask,sklearn,django&perline=6)](https://skillicons.dev)
+
+# Technologies 🤖
+
+[![My Skills](https://skillicons.dev/icons?i=atom,firebase,git,github,mongodb,mysql,postman,pycharm,sublime,terraform,ubuntu,visualstudio,vscode&perline=6)](https://skillicons.dev)
+
+js,html,css,wasm
+
 - 🤖 Technologies
   - Python, Scala, C++, C#
   - AWS
